@@ -1,0 +1,4 @@
+hsay a = 1
+hsay b = (a + 2) * 2
+
+hshow(b)
